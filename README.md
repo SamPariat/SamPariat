@@ -1,5 +1,5 @@
 # 💫 About Me:
-Wassup, I'm Samanbha D. Pariat<br>I'm a React + TypeScript Developer based in India
+Eyyy, I'm Samanbha D. Pariat<br>I'm a React + TypeScript Developer based in India
 
 
 ## 🌐 Socials:
