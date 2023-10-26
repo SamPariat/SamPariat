@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampariat&label=Profile%20views&color=0e75b6&style=flat" alt="sampariat" /> </p>
 
-- I’m currently learning **Next.js and Flutter**
+- I’m currently learning **Remix.js and Nest.js**
 
 - All of my projects are available at [https://github.com/SamPariat?tab=repositories](https://github.com/SamPariat?tab=repositories)
 
