@@ -27,7 +27,7 @@
 
 ###
 
-<h6 align="left">From India<br><br>Learning Next.js and React Native<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br><br>Personal favourite theme: Tokyo Night</h6>
+<h6 align="left">From India<br><br>Learning Go and React Native<br><br>Currently an intern at Infinite Locus<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br><br>Personal favourite theme: Tokyo Night & Ayu</h6>
 
 ###
 
@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -61,6 +63,8 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
