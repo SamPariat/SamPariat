@@ -27,7 +27,7 @@
 
 ###
 
-<h6 align="left">From India<br><br>Learning Go and React Native<br><br>Currently an intern at Infinite Locus<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br><br>Personal favourite theme: Tokyo Night & Ayu</h6>
+<h6 align="left">From India<br><br>Learning Go and React Native<br><br><br>Currently working as an SDE at Max Healthcare<br><br>Former intern + SDE at Infinite Locus<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br><br>Personal favourite theme: Tokyo Night & Catppuccin Mocha</h6>
 
 ###
 
