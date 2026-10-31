@@ -51,6 +51,13 @@
   </picture>
 </a>
 
+<a href="https://github.com/SamPariat/roundup-ui">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/roundup-ui-card-dark.svg">
+    <img alt="roundup-ui: the Roundup client for web, Android and iOS. Written in TypeScript. Built with React Native and Expo." src="assets/roundup-ui-card-light.svg" width="100%">
+  </picture>
+</a>
+
 <a href="https://github.com/SamPariat/movie-recommendation-sm">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cinesuggest-card-dark.svg">
