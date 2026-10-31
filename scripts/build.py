@@ -187,6 +187,14 @@ PROJECTS = {
         "langs": ("go",),
         "chips": (("Go", "cyan"), ("Fiber", "blue"), ("PostgreSQL", "blue"), ("OpenAPI", "green"), ("Casbin", "orange"), ("Expo", "purple")),
     },
+    "roundup-ui": {
+        "title": "roundup-ui", "repo": "SamPariat/roundup-ui",
+        "label": "roundup-ui: the Roundup client for web, Android and iOS",
+        "pitch": ("The Roundup client: one React Native app that runs on the web,",
+                  "Android and iOS."),
+        "langs": ("typescript",),
+        "chips": (("TypeScript", "blue"), ("React Native", "cyan"), ("Expo", "purple")),
+    },
     "cinesuggest": {
         "title": "CineSuggest", "repo": "SamPariat/movie-recommendation-sm",
         "label": "CineSuggest: movie recommendations and review sentiment",
